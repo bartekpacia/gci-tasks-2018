@@ -4,42 +4,42 @@ Google Code-in 2018 Summary for Baftek
 
 **Tasks completed: 38**
 
-- JBoss Community
-- Show Saved Visiting Card- Visiting Card App
-- Update Readme
-- Fix keyboard bug in Lead Management Android
-- Editing Visiting Card -Visiting Card App
-- Create a JBoss OutReach Android App - Stage III
-- App Shortcuts in Lead Management Android
-- Adding Validations to the Template. [Certificate Generator Frontend]
-- Basic Certificate Template [Certificate-generator-frontend]
-- Introduction To Django: Write a blog
-- Make POST request to APIs created in Visiting Card Backend using retrofit in the Visiting Card Android App for uploading data
-- Add an about page in Lead Management
-- Create an about page in Visiting card app
-- Integrate Travis CI to supported projects.
-- Create Models for Visiting Card Backend
-- Adding profile picture uploading in Visiting Card Android
-- Let's make it easy to catch errors - Lead Management Android
-- Don't allow the user to perform any action if not logged in : Lead Management Android
-- A Create Contact Widget ( 2 ) - Lead Management Android
-- Create a Contact Widget ( 1 ) - Lead Management Android
-- Create your first Telegram Bot
-- Implement a custom theme - Visiting Card Android
-- Bug Hunt: Creating your first issue
-- Firebase Sign-in : Lead Management Android
-- Implement Firebase authentication - Visiting Card Android
-- Create a JBoss OutReach Android App
-- Custom Pin in Google Maps - Visiting Card Android
-- Create a JBoss OutReach Android App - Stage I
-- Create an Intro Slider - Visiting Card Android
-- Bottom Navigation Bar - Lead Management Android
-- Create an Intro Slider for Lead Management Android
-- Create Visiting Card Layout - Visiting Card Android
-- Integration with Google Maps API - Visiting Card Android
-- Mastering the art of version control: Learn Git
-- Integrating Firebase Crashlytics for crash report - Lead Managment App
-- Migrate to AndroidX dependencies in Lead Management Android
--Create a poster inviting people to GCI and JBoss
--Introduction to JBoss Community.
--Setup Git and a GitHub account
+*   [Show Saved Visiting Card- Visiting Card App](https://codein.withgoogle.com/archive/2018/t/6510547739607040/)
+*   [Update Readme](https://codein.withgoogle.com/archive/2018/t/5792953260834816/)
+*   [Fix keyboard bug in Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6380007644463104/)
+*   [Editing Visiting Card -Visiting Card App](https://codein.withgoogle.com/archive/2018/t/4598826791862272/)
+*   [Create a JBoss OutReach Android App - Stage III](https://codein.withgoogle.com/archive/2018/t/4755847642087424/)
+*   [App Shortcuts in Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6605566710382592/)
+*   [Adding Validations to the Template. [Certificate Generator Frontend]](https://codein.withgoogle.com/archive/2018/t/5069677484048384/)
+*   [Basic Certificate Template [Certificate-generator-<wbr>frontend]](https://codein.withgoogle.com/archive/2018/t/5438479950413824/)
+*   [Introduction To Django: Write a blog](https://codein.withgoogle.com/archive/2018/t/4591673410584576/)
+*   [Make POST request to APIs created in Visiting Card Backend using retrofit in the Visiting Card Android App for uploading data](https://codein.withgoogle.com/archive/2018/t/4575924973469696/)
+*   [Add an about page in Lead Management](https://codein.withgoogle.com/archive/2018/t/4607869795172352/)
+*   [Create an about page in Visiting card app](https://codein.withgoogle.com/archive/2018/t/5114185840066560/)
+*   [Integrate Travis CI to supported projects.](https://codein.withgoogle.com/archive/2018/t/5256681232531456/)
+*   [Create Models for Visiting Card Backend](https://codein.withgoogle.com/archive/2018/t/4993711403433984/)
+*   [Adding profile picture uploading in Visiting Card Android](https://codein.withgoogle.com/archive/2018/t/5500041797042176/)
+*   [Let's make it easy to catch errors - Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6522835846561792/)
+*   [Don't allow the user to perform any action if not logged in : Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6500019587776512/)
+*   [A Create Contact Widget ( 2 ) - Lead Management Android](https://codein.withgoogle.com/archive/2018/t/5232667483176960/)
+*   [Create a Contact Widget ( 1 ) - Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6678233215926272/)
+*   [Create your first Telegram Bot](https://codein.withgoogle.com/archive/2018/t/4982323637387264/)
+*   [Implement a custom theme - Visiting Card Android](https://codein.withgoogle.com/archive/2018/t/5812893120462848/)
+*   [Bug Hunt: Creating your first issue](https://codein.withgoogle.com/archive/2018/t/5992665570082816/)
+*   [Firebase Sign-in : Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6048566565928960/)
+*   [Implement Firebase authentication - Visiting Card Android](https://codein.withgoogle.com/archive/2018/t/5696794399866880/)
+*   [Create a JBoss OutReach Android App](https://codein.withgoogle.com/archive/2018/t/4943470608252928/)
+*   [Custom Pin in Google Maps - Visiting Card Android](https://codein.withgoogle.com/archive/2018/t/6716166635520000/)
+*   [Create a JBoss OutReach Android App - Stage I](https://codein.withgoogle.com/archive/2018/t/5690282961010688/)
+*   [Create an Intro Slider - Visiting Card Android](https://codein.withgoogle.com/archive/2018/t/6619561412526080/)
+*   [Bottom Navigation Bar - Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6444061582950400/)
+*   [Create an Intro Slider for Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6372319472648192/)
+*   [Create Visiting Card Layout - Visiting Card Android](https://codein.withgoogle.com/archive/2018/t/6493382655344640/)
+*   [Integration with Google Maps API - Visiting Card Android](https://codein.withgoogle.com/archive/2018/t/6520277069463552/)
+*   [Mastering the art of version control: Learn Git](https://codein.withgoogle.com/archive/2018/t/6583703619764224/)
+*   [Integrating Firebase Crashlytics for crash report - Lead Managment App](https://codein.withgoogle.com/archive/2018/t/6192846613774336/)
+*   [Migrate to AndroidX dependencies in Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6288536253759488/)
+*   [Create a poster inviting people to GCI and JBoss](https://codein.withgoogle.com/archive/2018/t/4912591001354240/)
+*   [Introduction to JBoss Community.](https://codein.withgoogle.com/archive/2018/t/5147672898961408/)
+*   [Setup Git and a GitHub account](https://codein.withgoogle.com/archive/2018/t/5142226410668032/)
+
